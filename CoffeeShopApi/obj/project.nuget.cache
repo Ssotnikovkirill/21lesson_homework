@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dB8951H0/gwn5YiZ9eSt755KjcwKnNYEUrtpCBO97tmt3fpEvST4sYT8lYpCfuExUKSo3Lj7o7cIvapVXPQAxQ==",
+  "success": true,
+  "projectFilePath": "/Users/kirillsotnikov/Downloads/KOD 2/21 lesson/CoffeeShopApi/CoffeeShopApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirillsotnikov/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/Users/kirillsotnikov/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/kirillsotnikov/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/kirillsotnikov/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/kirillsotnikov/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/kirillsotnikov/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/kirillsotnikov/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
